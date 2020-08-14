@@ -1,0 +1,15 @@
+{
+  "name": "pact-bug",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@pact-foundation/pact": "^9.11.1",
+    "jest": "^26.4.0",
+    "jest-circus": "^26.4.0",
+    "jest-pact": "^0.7.0",
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
